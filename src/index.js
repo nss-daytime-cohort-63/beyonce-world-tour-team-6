@@ -1,4 +1,5 @@
 import { bandsHTMLText } from './bands.js'
+import { citiesHTMLText } from './cities.js'
 
 /* 
   Responsibility:
